@@ -1,1 +1,1 @@
-# aula-3-l-gica-da-programa-o
+# aula-3-lógica-da-programa
